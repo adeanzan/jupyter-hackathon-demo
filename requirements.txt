@@ -1,3 +1,5 @@
 Pillow
 tifffile
 matplotlib==3.5.3
+numpy
+pandas
